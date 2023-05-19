@@ -11,3 +11,17 @@
     pipenv install
     ```
 3) Create a database in PostgreSQL
+* Create ``.env`` file 
+```
+todo_app
+├───__pycache__
+└─── .env
+```
+* Fill in these parameters:
+```python
+DATABASE_NAME=
+DATABASE_USER=
+DATABASE_PASSWORD=
+DATABASE_HOST=
+DATABASE_PORT=
+```
