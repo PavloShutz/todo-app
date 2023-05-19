@@ -1,6 +1,6 @@
 # todo-app 📝
 
-### Installation
+### Installation and preparation
 
 1) ```commandline
     git clone https://github.com/PavloShutz/todo-app.git
@@ -10,3 +10,4 @@
     pipenv shell
     pipenv install
     ```
+3) Create a database in PostgreSQL
